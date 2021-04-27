@@ -26,3 +26,11 @@ Hazards are never deleted but may be closed if no longer relevant.
 
 ## Alternative views
 We are planning to develop a simple application which can view Issues in a tabular form, for familiarity.
+
+## Creating a Hazard
+1. Navigate to [Issues](https://github.com/rcpch/digital-growth-charts-hazard-log/issues)
+2. Click on New Issue
+3. Use the Hazard Issue Template to guide you through the necessary information
+4. Label according to Severity and Likelihood, then calculate Risk Level
+5. Assign to CSO @pacharanero
+6. Save
