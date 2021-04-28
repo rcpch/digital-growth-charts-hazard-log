@@ -12,8 +12,7 @@ function App() {
     return response;
   };
   
-  issues().then((response) => response.json())
-    .then((data) => console.log(data));
+  issues().then((response) => console.log(response.data))
   
   return (
     <div className="App">
