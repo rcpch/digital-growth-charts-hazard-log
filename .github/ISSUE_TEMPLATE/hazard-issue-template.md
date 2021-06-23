@@ -7,22 +7,22 @@ assignees: pacharanero
 
 ---
 
-## Description
+### Description
 A general description of the Hazard. Keep it short. Detail goes below.
 
-## Cause
+### Cause
 The upstream system Cause (can be multiple - use a numbered list) that results in the change to intended care.
 
-## Effect
+### Effect
 The change in the intended care pathway resulting from the Cause.
 
-## Hazard
+### Hazard
 The *potential* for Harm to occur, even if it does not.
 
-## Harm
+### Harm
 An actual occurrence of a Hazard in the patient or clinical context. This is what we are assessing the **Severity** and **Likelihood** of.
 
-## Possible Causes
+### Possible Causes
 An analysis of the Causes of the Hazard
 
 -----
