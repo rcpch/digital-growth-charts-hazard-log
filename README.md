@@ -34,3 +34,9 @@ We are planning to develop a simple application which can view Issues in a tabul
 4. Label according to Severity and Likelihood, then calculate Risk Level
 5. Assign to CSO @pacharanero
 6. Save
+
+## Risk Matrix
+For use when calculating the appropriate Risk Level
+(we hope to automate the Risk Level calculations using GitHub Actions soon)
+
+![risk-matrix](./public/risk-matrix.png)
