@@ -1,6 +1,7 @@
 name: on-issue-event
 on:
   issues:
+    types: [opened, edited]
 
 jobs:
   add-comment:
@@ -13,4 +14,6 @@ jobs:
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            This issue is available for anyone to work on. **Make sure to reference this issue in your pull request.** :sparkles: Thank you for your contribution! :sparkles:
+            Thank you for opening or editing a Hazard in the RCPCH dGC Hazard Log.
+            ### Next steps
+            * Please use the [Labels](https://github.com/rcpch/digital-growth-charts-hazard-log/labels) feature in the right sidebar area to stratify this Hazard in terms of **Likelihood** and **Severity**
