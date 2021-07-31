@@ -8,5 +8,5 @@ jobs:
       - name: Create or Update Project Card
         uses: peter-evans/create-or-update-project-card@v1
         with:
-          project-name: dGC Clinical Safety
+          project-name: Hazard Log Project Management
           column-name: triage
