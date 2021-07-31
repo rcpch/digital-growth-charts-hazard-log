@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="200" src="https://github.com/rcpch/digital-growth-charts-react-client/raw/live/public/rcpch_logo.png"><br/>
+  <img width="150" src="https://github.com/rcpch/digital-growth-charts-react-client/raw/live/public/htn-awards-winner-2020-logo.jpg">
+</p>
+
 # Digital Growth Charts Hazard Log
 
 This repository exists to provide a place to record Hazards identified in relation to the RCPCH Digital Growth Charts platform. Instead of the more usual and somewhat outdated and chaotic 'spreadsheet' model, often used for Hazard Logs, we are using the [Issues](https://github.com/rcpch/digital-growth-charts-hazard-log/issues) facility in GitHub to record Hazards.
